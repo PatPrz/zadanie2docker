@@ -1,4 +1,4 @@
-name: GHAction example  
+name: GHAction zadanie2docker
 
 on:
   workflow_dispatch:
